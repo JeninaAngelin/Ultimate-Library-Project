@@ -3,6 +3,10 @@
 <head>
 <title> login form</title>
 </head>
+ <?php
+        	$url = "style.css";
+        	echo "<link rel='stylesheet' href='{$stylesheet_url}'>";
+        ?>
 <body> <marquee> <FONT SIZE="+6" COLOR="#0000CC"> LIBRARY MANAGEMENT SYSTEM</FONT> </marquee> 
  <center>  <br/> <br/> <br/> <br/> <br/> <br/>
 <a href="bookmaster.php">BOOK MASTER </a> &nbsp &nbsp &nbsp
