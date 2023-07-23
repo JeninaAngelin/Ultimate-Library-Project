@@ -57,9 +57,7 @@ Based on the assessment findings, the following recommendations are proposed for
 </ol>
 
 ## Conclusion:
-<ol>
-  <li>The files bookmaster.php, membermaster.php, and homepage.html, along with the utilization of PHP and SQL, contribute to the success of the web application project.</li> 
- <li> The code demonstrates good quality, functionality, and user experience while ensuring security and data protection. 
-   <li>By implementing the recommended improvements, the project can continue to provide a functional, secure, and engaging system for book and member management, as well as an appealing homepage for users.
-   </ol>
+The files bookmaster.php, membermaster.php, and homepage.html, along with the utilization of PHP and SQL, contribute to the success of the web application project.<
+The code demonstrates good quality, functionality, and user experience while ensuring security and data protection. 
+By implementing the recommended improvements, the project can continue to provide a functional, secure, and engaging system for book and member management, as well as an appealing homepage for users.
 
